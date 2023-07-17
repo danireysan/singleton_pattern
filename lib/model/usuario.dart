@@ -1,6 +1,6 @@
 class Usuario {
-  final String nombre;
-  final int edad;
+  String nombre;
+  int edad;
   List<String> profesiones;
 
   Usuario({
